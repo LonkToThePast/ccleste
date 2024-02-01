@@ -1,5 +1,9 @@
 # ccleste
 
+This is a fork of lemon32767/ccleste with the change of having Maddy Thorson's chosen name, instead of her deadname like in the original code.
+
+[ Original README.md file from https://github.com/lemon32767/ccleste ]
+
 ![screenshot](https://raw.githubusercontent.com/lemon-sherbet/ccleste/master/screenshot.png)
 
 This is a C source port of the [original celeste (Celeste classic)](https://www.lexaloffle.com/bbs/?tid=2145) for the PICO-8, designed to be portable. PC and 3DS are the main supported platforms, though other people are [maintaining ports to other platforms](https://github.com/lemon32767/ccleste/network/members).
